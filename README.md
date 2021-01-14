@@ -12,7 +12,7 @@ Customers table will have basic fields such as name, email, current balance etc.
 ◇ Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.
 
 # Tech Stack
-FRONT END: HTML, CSS, JavaScript, Bootstrap
+◇ FRONT END: HTML, CSS, JavaScript, Bootstrap
 
 ◇ BACK END: PHP
 
