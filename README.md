@@ -14,8 +14,8 @@ Customers table will have basic fields such as name, email, current balance etc.
 # Tech Stack
 FRONT END: HTML, CSS, JavaScript, Bootstrap
 
-# BACK END: PHP
+◇ BACK END: PHP
 
-# DATABASE: MySQL
+◇ DATABASE: MySQL
 
-# The Website is Hosted at 000webhost.
+◇ The Website is Hosted at 000webhost.
