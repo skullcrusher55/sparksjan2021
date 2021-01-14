@@ -1,8 +1,9 @@
-<b>BASIC BANKING SYSTEM<b>
+# BASIC BANKING SYSTEM
   
 This Project is developed under Internship at The Sparks Foundation
 
-The aim was to create a simple website which has the following specs.
+# AIM
+To create a simple website which has the following specs.
 
 Start with creating a dummy data in database for upto 10 customers. Database options: Mysql, Mongo, Postgres, etc.
 Customers table will have basic fields such as name, email, current balance etc. Transfers table will record all transfers happened.
@@ -10,11 +11,11 @@ Customers table will have basic fields such as name, email, current balance etc.
 ◇ No Login Page. No User Creation. Only transfer of money between multiple users.
 ◇ Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.
 
-Tech Stack
+# Tech Stack
 FRONT END: HTML, CSS, JavaScript, Bootstrap
 
-BACK END: PHP
+# BACK END: PHP
 
-DATABASE: MySQL
+# DATABASE: MySQL
 
-The Website is Hosted at 000webhost.
+# The Website is Hosted at 000webhost.
